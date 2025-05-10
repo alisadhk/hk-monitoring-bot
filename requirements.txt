@@ -1,0 +1,4 @@
+cryptography
+PyQt5
+python-telegram-bot
+selenium
